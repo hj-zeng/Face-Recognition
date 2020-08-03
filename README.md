@@ -28,7 +28,7 @@
 
 ## 训练过程损失值的变化
 
-![https://github.com/hj-zeng/face-recognition/blob/master/%E6%8D%9F%E5%A4%B1%E5%80%BC.jpg]()
+![损失值](https://github.com/hj-zeng/face-recognition/blob/master/%E6%8D%9F%E5%A4%B1%E5%80%BC.jpg)
 
 ## 测试结果
 
